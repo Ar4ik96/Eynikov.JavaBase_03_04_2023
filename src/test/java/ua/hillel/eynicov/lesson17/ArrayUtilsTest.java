@@ -1,6 +1,5 @@
 package ua.hillel.eynicov.lesson17;
 
-
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
